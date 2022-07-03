@@ -1,0 +1,2 @@
+﻿state_name,region_name,percent_qualified,yearly_sunlight_kwh_f,yearly_sunlight_kwh_e,yearly_sunlight_kwh_n,yearly_sunlight_kwh_s,yearly_sunlight_kwh_w,yearly_sunlight_kwh_total,number_of_panels_e,number_of_panels_f,number_of_panels_n,number_of_panels_s,number_of_panels_w,number_of_panels_total,lat_avg,lng_avg,kw_total
+California,6037104401,86.30338733,2539152.18,1014756.467,1075291.372,1760042.866,1533140.14,7922383.025,2964,6574,3159,4352,3827,3000,34.26704025,-118.4327164,5219
